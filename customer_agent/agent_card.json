@@ -1,0 +1,10 @@
+{
+  "name": "CustomerAgent",
+  "description": "Talks to user, orchestrates restaurant/payment/delivery agents",
+  "url": "http://localhost:8001",
+  "version": "1.0.0",
+  "skills": [
+    {"id": "user_input", "name": "User_Input"},
+    {"id": "order_parser", "name": "Order_Parser"}
+  ]
+}

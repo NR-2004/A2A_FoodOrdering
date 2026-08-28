@@ -1,0 +1,4 @@
+.env
+destination_service_key.json
+__pycache__
+.venv

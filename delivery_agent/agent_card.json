@@ -1,0 +1,10 @@
+{
+  "name": "DeliveryAgent",
+  "description": "Generates delivery ID and estimated delivery time after payment is verified",
+  "url": "http://localhost:8004",
+  "version": "1.0.0",
+  "skills": [
+    {"id": "gen_delivery_id", "name": "Gen_DeliveryID"},
+    {"id": "generate_time", "name": "Generate_Time"}
+  ]
+}

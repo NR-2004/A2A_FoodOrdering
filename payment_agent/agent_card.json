@@ -1,0 +1,10 @@
+{
+  "name": "PaymentAgent",
+  "description": "Calculates total price and validates user payment",
+  "url": "http://localhost:8003",
+  "version": "1.0.0",
+  "skills": [
+    {"id": "calculate_total", "name": "Calculate_Total"},
+    {"id": "validate_payment", "name": "Validate_Payment"}
+  ]
+}

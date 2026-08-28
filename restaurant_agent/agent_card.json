@@ -1,0 +1,10 @@
+{
+  "name": "RestaurantAgent",
+  "description": "Holds menu, checks availability, reduces stock on order",
+  "url": "http://localhost:8002",
+  "version": "1.0.0",
+  "skills": [
+    {"id": "show_menu", "name": "Show_Menu"},
+    {"id": "check_availability", "name": "Check_Availability"}
+  ]
+}
