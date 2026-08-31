@@ -1,18 +1,18 @@
 {
   "pizza": {
     "price": 250,
-    "quantity": 17
+    "quantity": 25
   },
   "burger": {
     "price": 120,
-    "quantity": 27
+    "quantity": 30
   },
   "pasta": {
     "price": 180,
-    "quantity": 11
+    "quantity": 50
   },
   "coke": {
     "price": 40,
-    "quantity": 43
+    "quantity": 60
   }
 }
